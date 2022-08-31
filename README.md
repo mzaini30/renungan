@@ -1,2 +1,2 @@
-# catatan-zen
-Aplikasi Android Catatan Zen
+# Renungan 
+Aplikasi Android Renungan 

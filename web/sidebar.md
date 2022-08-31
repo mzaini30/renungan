@@ -1,5 +1,1 @@
 - [Beranda](/)
-- Web Dev
-	- [Berbagai Bentuk Website](/docs/membuat-website)
-- Bisnis
-	- [Cara Mudah Investasi Crypto](/docs/crypto)

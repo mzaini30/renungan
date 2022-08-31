@@ -1,1 +1,3 @@
-# Hello World
+# Sebuah Renungan
+
+Aplikasi ini berawal dari keinginanku mengumpulkan renungan-renungan yang aku dapatkan dari berbagai peristiwa dan kejadian yang berbekas dalam pikiranku. Juga dari berbagai ceramah dan quotes yang aku dengar dan berefek bagi kehidupan. Semua pengalaman itu akan aku bagikan di aplikasi ini supaya manfaat yang aku dapatkan ini bisa dirasakan oleh semua orang yang menginstall aplikasi ini.
