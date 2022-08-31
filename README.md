@@ -1,0 +1,2 @@
+# renungan
+Aplikasi Android Renungan
