@@ -1,1 +1,2 @@
 - [Beranda](/)
+- [Pikiran Seorang Ayah](/ayah)
